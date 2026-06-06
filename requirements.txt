@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+tensorflow-cpu==2.19.0
+matplotlib
+seaborn
